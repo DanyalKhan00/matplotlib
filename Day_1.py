@@ -42,12 +42,12 @@
 # plt.show()
 
 # Create a bar chart showing the marks of 5 students. Add a title and labels for both axes.
-import matplotlib.pyplot as plt
-student = ["ali","asad","saad","hassan","ukasha"]
-marks = [45,67,88,90,56]
-colors = ["red", "yellow", "orange", "blue", "green"]
-plt.barh(student,marks,color= colors)
-plt.title("Student Record")
-plt.xlabel("Student")
-plt.ylabel("Marks")
-plt.show()
+# import matplotlib.pyplot as plt
+# student = ["ali","asad","saad","hassan","ukasha"]
+# marks = [45,67,88,90,56]
+# colors = ["red", "yellow", "orange", "blue", "green"]
+# plt.barh(student,marks,color= colors)
+# plt.title("Student Record")
+# plt.xlabel("Student")
+# plt.ylabel("Marks")
+# plt.show()
